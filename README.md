@@ -40,8 +40,8 @@ A fast and lightweight Python CLI tool designed to automatically solve Discord Q
 Clone the repository and install requirements
 
 ```bash
-git clone https://github.com/your-username/quest-solver.git
-cd quest-solver
+git clone https://github.com/AgentcYper/Discord-Quest-Completer.git
+cd Discord-Quest-Completer
 pip install -r requirements.txt
 ```
 
