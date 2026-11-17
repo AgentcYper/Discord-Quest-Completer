@@ -40,7 +40,7 @@ A fast and lightweight Python CLI tool designed to automatically solve Discord Q
 Clone the repository and install requirements
 
 ```bash
-git clone https://github.com/AgentcYper/Discord-Quest-Completer.git
+git clone https://github.com/i2tt/Discord-Quest-Completer.git
 cd Discord-Quest-Completer
 pip install -r requirements.txt
 ```
@@ -83,8 +83,8 @@ python main.py
 ## Developers
 
 <p align="center">
-  <a href="https://github.com/AgentcYper">
-    <img src="https://img.shields.io/badge/AgentcYper-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="AgentcYper" />
+  <a href="https://github.com/i2tt">
+    <img src="https://img.shields.io/badge/AgentcYper-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="i2tt" />
   </a>
   <a href="https://github.com/nf5054">
     <img src="https://img.shields.io/badge/nf5054-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="nf5054" />
